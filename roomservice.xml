@@ -4,8 +4,8 @@
           fetch="https://github.com/j5xnlte" 
           revision="cm-14.1" />
   
-  <project path="device/qcom/common" name="android_device_qcom_common" remote="los" />
-  <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" groups="device" remote="los" />
+  	<project path="device/qcom/common" name="android_device_qcom_common" remote="los" />
+  	<project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" groups="device" remote="los" />
 	<project path="external/busybox" name="android_external_busybox" remote="los" />
 	<project path="external/sony/boringssl-compat" name="android_external_sony_boringssl-compat" remote="los" />
 	<project path="external/stlport" name="android_external_stlport" remote="los" />
